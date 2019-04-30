@@ -1,0 +1,9 @@
+{
+    "classes_path": "classes.json",
+    "weights_path": "weights.pth",
+    "input_size": [513, 513, 3],
+    "mean_RGB": [122.675, 116.669, 104.008],
+    "n_blocks": [3, 4, 23, 3],
+    "atrous_rates": [6, 12, 18, 24],
+    "scales": [0.5, 0.75, 1.0, 1.25, 1.5]
+}

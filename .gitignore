@@ -1,0 +1,4 @@
+*.yaml
+*.pth
+*.txt
+__pycache__/*
